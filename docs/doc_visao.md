@@ -4,13 +4,14 @@ title: doc_visao
 
 # Documento de Visão
 
-
 ## Histórico de revisão
+
 
 Data | Versão | Descrição | Autor
 ----: | :------: | --------- | -----
 20/09/19 | 1.0 | Iniciando documento de visão | Ailamar Alves, Matheus Amaral
 20/09/19 | 1.1 | Adição dos tópicos 1 e 2 | Ailamar Alves, Matheus Amaral
+
 
 
 
@@ -86,7 +87,8 @@ Data | Versão | Descrição | Autor
 ### 1. Introdução 
 
 #### 1.1 Propósito: 
-Este documento tem como objetivo apresentar uma visão geral sobre o desenvolvimento do Dashboard Ágil (nome do nosso produto) e seu contexto de aplicação para o usuário do Github.
+
+Este documento tem como objetivo apresentar uma visão geral sobre o desenvolvimento do Dashboard Ágil DashOwl e seu contexto de aplicação para o usuário do Github.
  
 #### 1.2 Escopo: 
 	(Descreve brevemente o escopo deste documento de visão, incluindo a quais programas, projetos, aplicativos e processos de negócios o documento está associado. Inclui qualquer outra coisa que este documento afete ou influencie.)
@@ -96,13 +98,16 @@ Espera-se que, com este produto os usuários que utilizam a plataforma GitHub ao
  
 #### 1.3 Definições, acrônimos e abreviações
 
+
 Sigla   | Descrição
 :----:  | ---
 API     | Interface de Programação de Aplicações
 GitHub  | Plataforma de hospedagem de código-fonte
 
 
+
 #### 1.4 Referências
+
 1. Template Documento de visão.  Disponível em: <>.  Acesso em 20/09.
  
 2. IBM Knowledge Center - Documento de Visão: A estrutura de tópicos do documento de visão. Disponível em: <https://www.ibm.com/support/knowledgecenter/pt-br/SSWMEQ_4.0.6/com.ibm.rational.rrm.help.doc/topics/r_vision_doc.html>. Acesso em 20/09.
