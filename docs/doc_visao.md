@@ -3,7 +3,7 @@ title: doc_visao
 ---
 
 # Visão
-Versão 1.2
+Versão 1.3
 
 ## Histórico de revisão
 
@@ -121,17 +121,19 @@ O Github é o maior site de controle de versão, tendo aproximadamente 100 milh�
 ### 3.2 Resumo da Parte Interessada
 
 Nome | Representa | Função
-:---- | :------ | :--------- 
+:--- | :--------- | :--------- 
 Equipe de desenvolvimento | Estudantes da disciplina Métodos de Desenvolvimento de Software. | Gerenciar e desenvolver o software dentro das datas definidas.
-Joenio Costa e Carla Rocha | Professores da disciplina Desenvolvimento de Software. | Avaliar o andamento do projeto e a entrega final.
+Joenio Costa e Carla Rocha | Professores da disciplina Métodos de Desenvolvimento de Software. | Avaliar o andamento do projeto e a entrega final.
 
 ### 3.3 Resumo do Usuário
 
 Nome | Representa | Função
-:--- | :--------- | :------
+:--- | :--------- | :-----
 Usuários do GitHub | Pessoas que tem o interesse em visualizar o histórico de atividades de determinado repositório do GitHub. | Utilizar a plataforma DashOwl.
 
 ### 3.4 Ambiente do Usuário
+
+O projeto é uma extensão do GitHub no navegador, basta o usuário ter um navegador compatível e conexão com a internet para instalá-lo e poder acessá-lo.
 
 ### 3.5 Perfis das Partes Interessadas
 
@@ -139,13 +141,13 @@ Usuários do GitHub | Pessoas que tem o interesse em visualizar o histórico de 
 ---- | :------ 
 **Representantes** | Damarcones dos Santos<br />Ailamar Alves<br />Matheus Amaral<br />Kalebe Lopes<br />João Victor de Oliveira<br />Murilo Schiler
 **Descrição** | Desenvolvedores e gestores do projeto.
-**Tipo** | Estudantes da Universidade de Brasília - FGA/Gama, matriculados na disciplina Desenvolvimento de Software.
+**Tipo** | Estudantes da Universidade de Brasília - FGA/Gama, matriculados na disciplina Métodos de Desenvolvimento de Software.
 **Responsabilidades** | Conseguir desenvolver e gerenciar o projeto de forma que seja possível a entrega com todos os requisitos prontos dentro do prazo.
 **Critérios de sucesso** | Garantir ao final do período um produto de qualidade e funcionando dentro do esperado pelo cliente.
 **Envolvimento** | Alto
 **Comentarios / Problemas** | -
 
-### Perfis do Usuário
+### 3.6 Perfis do Usuário
 
 | | |
 ---- | :------ 
@@ -155,6 +157,26 @@ Usuários do GitHub | Pessoas que tem o interesse em visualizar o histórico de 
 **Responsabilidades** | 
 **Critérios de sucesso** | 
 **Envolvimento** |
+
+### 3.7 Principais Necessidades da Parte Interessada ou do Usuário
+
+### 3.8 Alternativas e Concorrência
+
+Atualmente já existe disponível no próprio GitHub uma sessão que indica graficamente o quantitativo de “commits” por dia feito por cada integrante do time em um repositório. Também existe a plataforma ZenHub que facilita no uso das funcionalidades do GitHub relacionadas com a organização e gerenciamento de projeto e também permite ver relatórios do Agile, entretanto essa extensão é mais focada em fazer interface com o GitHub do que transmitir visualmente interpretações Agile. 
+
+---
+
+## 4 Visão Geral do Produto
+### 4.1 Perspectiva do Produto
+
+O software será uma plataforma web para um dashboard ágil, em que os usuários poderão fazer o requerimento do produto instalando a extensão em seu navegador padrão. Com esta instalação o programa já estará disponível para uso.
+
+### 4.2 Resumo das Capacidades
+
+Benefício para o cliente | Recursos de suporte
+:----------------------- | :------------------ 
+Facilidade na tomada de decisão. | O acompanhamento do andamento do projeto é em real time, dando uma visão gera.
+Facilidade em gerenciar um projeto seguindo o Agile. | A ferramenta suporta sistema de ranking por contribuição, Burndown, Velocity e dados periódicos sobre o desenvolvimento e sobre a gestão dos repositórios do projeto.
 
 
 
