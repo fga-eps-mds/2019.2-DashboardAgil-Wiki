@@ -17,38 +17,38 @@ Data | Versão | Descrição | Autor
 
 ## Índice
 
-1. Introdução </p>
-	1.1 Propósito </p>
-	1.2 Escopo </p>
-	1.3 Definições, acrônimos e abreviações </p>
-	1.4 Referências </p> 
-	1.5 Visão geral </p>
-2. Posicionamento </p>
-	2.1 Oportunidade de Negócios </p>
-	2.2 Instrução do problema </p>
-	2.3 Instrução de Posição do produto </p>
-3. Descrições da parte interessada e do usuário </p>
-	3.1 Demografia de mercado </p>
-	3.2 Resumo da parte interessada </p>
-	3.3 Resumo do usuário </p>
-	3.4 Ambiente do usuário </p>
-	3.5 Perfis das partes interessadas </p>
-	3.6 Perfis do usuário </p>
-	3.7 Principais Necessidades da parte interessada ou do usuário </p>
-	3.8 Alternativa e concorrência </p>
-4. Visão geral do produto </p>
-	4.1 Perspectiva do produto </p>
-	4.2 Resumo das capacidades </p>
-	4.3 Suposições e dependências </p>
-	4.4 Custo e precificação </p>
-	4.5 Licenciamento e Instalação </p>
-5. Recursos do produto </p>
-6. Restrições </p>
-7. Faixas de qualidade </p>
-8. Precedência e prioridade </p>
-9. Outros requisitos do produto </p>
-10. Requisitos de documentação </p>
-11. Apêndice </p>
+1. Introdução<br />
+	1.1 Propósito<br />
+	1.2 Escopo<br />
+	1.3 Definições, acrônimos e abreviações<br />
+	1.4 Referências<br />
+	1.5 Visão geral<br />
+2. Posicionamento<br />
+	2.1 Oportunidade de Negócios<br />
+	2.2 Instrução do problema<br />
+	2.3 Instrução de Posição do produto<br />
+3. Descrições da parte interessada e do usuário<br />
+	3.1 Demografia de mercado<br />
+	3.2 Resumo da parte interessada<br />
+	3.3 Resumo do usuário<br />
+	3.4 Ambiente do usuário<br />
+	3.5 Perfis das partes interessadas<br />
+	3.6 Perfis do usuário<br />
+	3.7 Principais Necessidades da parte interessada ou do usuário<br />
+	3.8 Alternativa e concorrência<br />
+4. Visão geral do produto<br />
+	4.1 Perspectiva do produto<br />
+	4.2 Resumo das capacidades<br />
+	4.3 Suposições e dependências<br />
+	4.4 Custo e precificação<br />
+	4.5 Licenciamento e Instalação<br />
+5. Recursos do produto<br />
+6. Restrições<br />
+7. Faixas de qualidade<br />
+8. Precedência e prioridade<br />
+9. Outros requisitos do produto<br />
+10. Requisitos de documentação<br />
+11. Apêndice<br />
 
 ---
 
@@ -113,7 +113,9 @@ O Agile vem sendo muito utilizado no desenvolvimento de software. além disso, u
 **Diferente de** | Programas já existentes que são focados na organização e gerenciamento.
 **Nosso produto** | Proporciona uma facilidade na tomada de decisão em relação a contribuir ou não com o repositório em questão.
 
-## 3 Descrições da Parte Interessada e do Usuário
+---
+
+## 3 Descrições da Parte Interessada e do Usuário 
 ### 3.1 Demografia de mercado
 
 O Github é o maior site de controle de versão, tendo aproximadamente 100 milhões de repositórios hospedados. Em um universo de desenvolvimento de software dessa magnitude é muito útil se pensar em uma interface que em mostre todos os dados de relevância de um projeto já interpretados em forma de gráfico, facilitando a vida, dentro dos quase 40 milhões de contribuidores do Github, de todos que trabalham com Agile ou buscam indicadores de um bom projeto para contribuir. 
@@ -129,7 +131,7 @@ Joenio Costa e Carla Rocha | Professores da disciplina Desenvolvimento de Softwa
 
 Nome | Representa | Função
 :--- | :--------- | :------
-Usuário do GitHUb | Pessoas que tem o interesse em visualizar o histórico de atividades de determinado repositório do GitHub. | Utilizar a plataforma DashOwl.
+Usuários do GitHub | Pessoas que tem o interesse em visualizar o histórico de atividades de determinado repositório do GitHub. | Utilizar a plataforma DashOwl.
 
 ### 3.4 Ambiente do Usuário
 
@@ -137,7 +139,7 @@ Usuário do GitHUb | Pessoas que tem o interesse em visualizar o histórico de a
 
 | | |
 ---- | :------ 
-**Representantes** | Damarcones dos Santos, Ailamar Alves, Matheus Amaral, Kalebe Lopes, João Victor de Oliveira, Murilo Schiler
+**Representantes** | Damarcones dos Santos<br />Ailamar Alves<br />Matheus Amaral<br />Kalebe Lopes<br />João Victor de Oliveira<br />Murilo Schiler
 **Descrição** | Desenvolvedores e gestores do projeto.
 **Tipo** | Estudantes da Universidade de Brasília - FGA/Gama, matriculados na disciplina Desenvolvimento de Software.
 **Responsabilidades** | Conseguir desenvolver e gerenciar o projeto de forma que seja possível a entrega com todos os requisitos prontos dentro do prazo.
