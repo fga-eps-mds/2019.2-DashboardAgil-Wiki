@@ -3,7 +3,7 @@ title: doc_visao
 ---
 
 # Visão
-Versão 1.3
+Versão 1.6
 
 ## Histórico de revisão
 
@@ -14,6 +14,9 @@ Data | Versão | Descrição | Autor
 20/09/19 | 1.1 | Adição dos tópicos 1 e 2 | Ailamar Alves, Matheus Amaral
 26/09/19 | 1.2 | Adição dos tópicos 3.2, 3.3, 3.5, 3.8 | Ailamar Alves
 26/09/19 | 1.3 | Adição dos tópicos 2.2, 3.1 | Matheus Amaral
+27/09/19 | 1.4 | Adição dos tópicos 1.4, 2.3, 4.1 | Ailamar Alves
+27/09/19 | 1.5 | Adição dos tópicos 3.4, 3.6, 4.3 | Damarcones dos Santos
+27/09/19 | 1.6 | Adição dos tópicos 3.7, 4.2 | Matheus Amaral
 
 ## Índice
 
@@ -78,6 +81,8 @@ Agile  | Metodologia ágil
  
 2. MUNIZ, Amanda; RIOS, Calebe; LIMA, Eduardo; DUARTE, Indiara; RIBEIRO, Luciana; TAIRA, Luís; GOUVEIA, Micaella; BUTERS, Samuel; PATROCINIO, Sofia. Documento de visão. Disponívem em: https://github.com/fga-eps-mds/2019.1-Gaia/blob/master/docs/produto/DocVisao.md . Acesso em: set/2019.
 
+3. KAMAL, Byron; CERQUEIRA, Eduardo; ALVES, Gabriel; ARAGÃO, Igor; VELUDO, Igor; MOTA, João; ARAUJO, Marcelo; ASSUNÇÃO, Matheus; SILVA, William. Documento de Visão. Disponível em: https://github.com/fga-eps-mds/2018.1-IncluCare_API/blob/master/docs/VISION_DOCUMENT.md#5-restri%C3%A7%C3%B5es . Acesso em: set/2019. 
+
 ### 1.5 Visão geral
 
 Este documento possui um breve resumo do que espera-se do produto, descrevendo sucintamente as funcionalidades e suas finalidades, sendo organizado em tópicos abordando desde as partes mais interessadas, interação com usuário, mercado, entre outros.
@@ -90,7 +95,6 @@ Este documento possui um breve resumo do que espera-se do produto, descrevendo s
 O Agile vem sendo muito utilizado no desenvolvimento de software. além disso, um projeto do GitHub traz muitas informações difusas, ou sem nenhuma imediatez. Com isso, surge a necessidade de uma ferramenta com o toda a informação relevante sobre o projeto, juntamente de uma interface gráfica amigável para o usuário.
  
 ### 2.2 Instrução do Problema 
-
 
 | | |
 ---- | :------ 
@@ -109,7 +113,7 @@ O Agile vem sendo muito utilizado no desenvolvimento de software. além disso, u
 **O DashOwl** | É uma extensão do GitHub.
 **Que** | Filtra em forma de gráficos os dados mais relevantes dos arquivos de acordo com a metodologia agile.
 **Diferente de** | Programas já existentes que são focados na organização e gerenciamento.
-**Nosso produto** | Proporciona uma facilidade na tomada de decisão em relação a contribuir ou não com o repositório em questão.
+**Nosso produto** | Proporciona uma solução gratuita, rápida e eficiente ao problema existente.
 
 ---
 
@@ -151,14 +155,23 @@ O projeto é uma extensão do GitHub no navegador, basta o usuário ter um naveg
 
 | | |
 ---- | :------ 
-**Representantes** | 
-**Descrição** | 
-**Tipo** | 
-**Responsabilidades** | 
-**Critérios de sucesso** | 
-**Envolvimento** |
+**Representantes** | Usuários da plataforma GitHub.
+**Descrição** | Interessados em acompanhar em tempo real o andamento das atividades dos repositórios.
+**Tipo** | Desenvolvedores.
+**Responsabilidades** | Pretensão de contribuir com o repositório de maneira a agregar e compartilhar conhecimento.
+**Critérios de sucesso** | Identificar se o repositório continua a ser desenvolvido ou está “morto’.
+**Envolvimento** | Alto.
+**Comentarios / Problemas** | -
 
 ### 3.7 Principais Necessidades da Parte Interessada ou do Usuário
+
+| | |
+---- | :------ 
+**Necessidade** | Ter uma visão panorâmica de um projeto seguindo o Agile.
+**Prioridade** | Alta.
+**Interesses** | Acabar com o processo de busca, dando imediatez à interpretação.
+**Solução atual** | Navegar por todas as funcionalidades do GitHub manualmente.
+**Solução proposta** | Uma extensão Web que seja capaz de pegar os dados  mais importantes para os gestores do Agile e devolvê-los com uma interface amigável. 
 
 ### 3.8 Alternativas e Concorrência
 
@@ -177,6 +190,35 @@ Benefício para o cliente | Recursos de suporte
 :----------------------- | :------------------ 
 Facilidade na tomada de decisão. | O acompanhamento do andamento do projeto é em real time, dando uma visão gera.
 Facilidade em gerenciar um projeto seguindo o Agile. | A ferramenta suporta sistema de ranking por contribuição, Burndown, Velocity e dados periódicos sobre o desenvolvimento e sobre a gestão dos repositórios do projeto.
+
+### 4.3 Suposições e Dependências
+
+Incompatibilidade ou mal funcionamento em algum navegador ou sistema operacional específico, se necessário o documento será alterado para se encaixar com as especificações.
+
+### 4.4 Custo e Precificação 
+
+### 4.5 Licenciamento e Instalação
+
+O DashOwl está sob a licença GNU General Public License v3.0 de softwares livres, que dá liberdade para todos que o adquirirem de modificar, distribuir, sublicenciar, vender, contribuir e concede um expressivo direito de patente para o software.
+
+---
+
+## 5 Recursos do Produto
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
