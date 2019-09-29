@@ -1,7 +1,3 @@
----
-title: doc_arquitetura
----
-
 # Arquitetura
 
 ## Histórico de revisão
@@ -11,6 +7,7 @@ Data | Versão | Descrição | Autor
 ----: | :------: | --------- | -----
 26/09/19 | 1.0 | Iniciando documento, formatação | Ailamar Alves, Matheus Amaral
 26/09/19 | 1.1 | Adição dos tópicos de 1 à 1.5 | Ailamar Alves, Matheus Amaral
+29/09/19 | 1.2 | Adição dos tópicos 2 e 3.1 | João Victor
 
 ## Índice
 
@@ -63,15 +60,43 @@ Neste documento é apresentado um resumo com detalhes e esquemas do desenvolvime
 
 ### 2.1 Diagrama de Relações
 
+![](./assets/imgs/Diagrama_arquitetura.png)
+Imagem 01 - Representação da arquitetura através de um diagrama de relações
+
 ### 2.2 Representação dos Microsserviços
 
 ### 2.3 Padrões
 
+O Django segue o padrão MVC que visa separar a aplicação em tres partes:
+
+* Model - Leitura e escrita de dados (interface com o banco de dados).
+* View - Interface com o usuário e exibição de dados (HTML)
+* Controller - Recebe e processa requisições, controla as models e views.
+
+Porém, o Django usa uma terminologia um pouco diferente (MVT) na implementação do MVC:
+
+* Model - mesma funcionalidade que a model no MVC
+* View - gerencia a maior parte do processamento de dados, lógica e mensagens do aplicativo.
+* Template -  é a camada que retorna a visão para o usuário do programa. Essa camada é composta por, HTML,CSS, javascript e etc. Geralmente linguagens focadas na apresentação do site para o usuário.
+
+
 ### 2.4 Tecnologias
+
+#### 2.4.1 API do GitHub
+
+O backend do DashOwl consumira a api do github em busca de dados sobre os repositórios. Esses dados serão processados, gerando as métricas necessárias para criação de gráficos e relatórios.
 
 ## 3. Metas e Restrições de Arquitetura
 
 ### 3.1 Restrições Tecnológicas
+
+Para desenvolver o DashOwl serão utilizadas as seguintes tecnologias:
+
+* Django - Framework de desenvolvimento para web que faz uso do padrão model-template-view
+* Python - Linguagem utilizada no desenvolvimento backend da aplicação
+* Docker - Tecnologia de fornecimento de contêineres, adicionando uma camada de abstração, automação e virtualização ao S.O
+* JavaScript - Utilizado no desenvolvimento Web de forma dinâmica
+* HTML/CSS - Utilizado no desenvolvimento Web de forma padrão e estruturado
 
 ### 3.2 Requisitos Não Funcionais
 
