@@ -47,7 +47,12 @@ Data | Versão | Descrição | Autor
 	4.4 Custo e precificação<br />
 	4.5 Licenciamento e Instalação<br />
 5. Recursos do produto<br />
+	5.1 Fornecer informações sobre o projeto<br/>
+	5.2 Sistema de Ranking<br/>
 6. Restrições<br />
+	6.1 Restrições de implementação<br/>
+	6.2 Restrições de design<br/>
+	6.3 Restriçoes de uso<br/>
 7. Faixas de qualidade<br />
 8. Precedência e prioridade<br />
 9. Outros requisitos do produto<br />
