@@ -17,6 +17,7 @@ Data | Versão | Descrição | Autor
 27/09/19 | 1.4 | Adição dos tópicos 1.4, 2.3, 4.1 | Ailamar Alves
 27/09/19 | 1.5 | Adição dos tópicos 3.4, 3.6, 4.3 | Damarcones dos Santos
 27/09/19 | 1.6 | Adição dos tópicos 3.7, 4.2 | Matheus Amaral
+30/09/19 | 1.7 | Adição dos tópicos 5, 6 | João Victor
 
 ## Índice
 
@@ -205,25 +206,29 @@ O DashOwl está sob a licença GNU General Public License v3.0 de softwares livr
 
 ## 5 Recursos do Produto
 
+### 5.1 Fornecer informações sobre o projeto, tais como:
 
+* Porcentagem de issues abertas e/ou fechadas num periodo
+* Periodo de issues abertas
+* Total de pull requests abertos e/ou fechados por periodo
 
+### 5.2 Sistema de ranking:
 
+* Pontos por sprint
+* Issues completas
+* Pull requests
+* Linhas de código
 
+## 6 Restrições
 
+### 6.1 Restrição de implementação
 
+O software deverá ser desenvolvido usando o framework django para a aplicação web e JavaScript para a extensão
 
+### 6.2 Restrição de design
 
+O sistema devera ter uma interface amigavel e de fácil usabilidade
 
+### 6.3 Restrição de uso
 
-
-
-
-
-
-
-
-
-
-
-
-
+Para usar o DashOwl, o usuário deverá ter uma conexão com a internet e instalar a extensão no navegador google chrome
