@@ -237,3 +237,10 @@ O sistema devera ter uma interface amigavel e de fácil usabilidade
 ### 6.3 Restrição de uso
 
 Para usar o DashOwl, o usuário deverá ter uma conexão com a internet e instalar a extensão no navegador google chrome
+
+### 7 Faixas de Qualidade
+A extensão será disponibilizada na Chrome Web Store e funcionará com maior eficiência e estabilidade em dispositivos que utilizam o navegador Google Chrome como padrão, além de uma conexão estável com a internet.
+ 
+### 8 Prioridade e Precedência
+A prioridade da aplicação é acompanhar em tempo real os repositórios do GitHub. Além disso, a aplicação indicará graficamente as atividades feitas individualmente e pelo time com a intenção de facilitar a sua visualização e o seu monitoramento.
+
