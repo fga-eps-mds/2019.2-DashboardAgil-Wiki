@@ -11,31 +11,31 @@ Data | Versão | Descrição | Autor
 
 ## Índice
 
-1. Introdução </p>
-  1.1 Finalidade </p>
-  1.2 Escopo </p>
-  1.3 Definições, Acrônimos e Abreviações </p>
-  1.4 Referências </p>
-  1.5 Visão Geral </p>
-2. Representação Arquitetural </p>
-  2.1 Diagrama de Relações </p>
-  2.2 Representação dos Microsserviços </p>
-  2.3 Padrões </p>
-  2.4 Tecnologias </p>
-3. Metas e Restrições da Arquitetura </p>
-  3.1 Restrições Tecnológicas </p>
-  3.2 Requisitos Não Funcionais </p>
-4. Visão de Casos de Usos </p>
-    4.1 Atores de Casos de Usos </p>
-    4.2 Visões de Casos de Usos </p>
-    4.3 Descrições de Casos de Usos </p>
-5. Visão Lógica </p>
-  5.1. Visão Geral </p>
-  5.2. Pacotes de Design Significativos do Ponto de Vista da Arquitetura </p>
-    5.2.1 Diagrama de Pacotes </p>
-    5.2.2 Diagrama de Classes </p>
-6. Visão de Implementação </p>
-7. Tamanho e Desempenho </p>
+1. Introdução <br />
+  1.1 Finalidade <br />
+  1.2 Escopo <br />
+  1.3 Definições, Acrônimos e Abreviações <br />
+  1.4 Referências <br />
+  1.5 Visão Geral <br />
+2. Representação Arquitetural<br />
+  2.1 Diagrama de Relações<br />
+  2.2 Representação dos Microsserviços<br />
+  2.3 Padrões<br />
+  2.4 Tecnologias <br />
+3. Metas e Restrições da Arquitetura <br />
+  3.1 Restrições Tecnológicas <br />
+  3.2 Requisitos Não Funcionais <br />
+4. Visão de Casos de Usos<br />
+    4.1 Atores de Casos de Usos <br />
+    4.2 Visões de Casos de Usos <br />
+    4.3 Descrições de Casos de Usos <br />
+5. Visão Lógica <br />
+  5.1. Visão Geral <br />
+  5.2. Pacotes de Design Significativos do Ponto de Vista da Arquitetura <br />
+    5.2.1 Diagrama de Pacotes <br />
+    5.2.2 Diagrama de Classes <br />
+6. Visão de Implementação <br />
+7. Tamanho e Desempenho <br />
 
 ## 1. Introdução
 
@@ -54,6 +54,7 @@ GitHub  | Plataforma de hospedagem de código-fonte
 ### 1.4 Referências
 	
 ### 1.5 Visão Geral
+
 Neste documento é apresentado um resumo com detalhes e esquemas do desenvolvimento do software de extensão DashOwl para o GitHub. Descrevendo as propostas e requisitos que foram necessárias, divididas nos principais tópicos que são a representação arquitetural, metas e restrições da arquitetura, visão de casos de uso e visão lógica.
 
 ## 2. Representação Arquitetural
@@ -67,7 +68,7 @@ Imagem 01 - Representação da arquitetura através de um diagrama de relações
 
 ### 2.3 Padrões
 
-O Django segue o padrão MVC que visa separar a aplicação em tres partes:
+O Django segue o padrão MVC que visa separar a aplicação em três partes:
 
 * Model - Leitura e escrita de dados (interface com o banco de dados).
 * View - Interface com o usuário e exibição de dados (HTML)
