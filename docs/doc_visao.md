@@ -18,6 +18,7 @@ Data | Versão | Descrição | Autor
 27/09/19 | 1.5 | Adição dos tópicos 3.4, 3.6, 4.3 | Damarcones dos Santos
 27/09/19 | 1.6 | Adição dos tópicos 3.7, 4.2 | Matheus Amaral
 30/09/19 | 1.7 | Adição dos tópicos 5, 6 | João Victor
+30/09/19 | 1.8 | Adição dos tópicos 7, 8 | Kalebe 
 
 ## Índice
 
