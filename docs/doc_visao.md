@@ -3,7 +3,7 @@ title: doc_visao
 ---
 
 # Visão
-Versão 1.6
+Versão 1.8
 
 ## Histórico de revisão
 
@@ -16,7 +16,7 @@ Data | Versão | Descrição | Autor
 26/09/19 | 1.3 | Adição dos tópicos 2.2, 3.1 | Matheus Amaral
 27/09/19 | 1.4 | Adição dos tópicos 1.4, 2.3, 4.1 | Ailamar Alves
 27/09/19 | 1.5 | Adição dos tópicos 3.4, 3.6, 4.3 | Damarcones dos Santos
-27/09/19 | 1.6 | Adição dos tópicos 3.7, 4.2 | Matheus Amaral
+27/09/19 | 1.6 | Adição dos tópicos 3.7, 4.2, 4,5 | Matheus Amaral, Ailamar Alves
 30/09/19 | 1.7 | Adição dos tópicos 5, 6 | João Victor
 30/09/19 | 1.8 | Adição dos tópicos 7, 8 | Kalebe 
 
@@ -195,7 +195,7 @@ O software será uma plataforma web para um dashboard ágil, em que os usuários
 
 Benefício para o cliente | Recursos de suporte
 :----------------------- | :------------------ 
-Facilidade na tomada de decisão. | O acompanhamento do andamento do projeto é em real time, dando uma visão gera.
+Facilidade na tomada de decisão. | O acompanhamento do andamento do projeto é em real time, dando uma visão geral.
 Facilidade em gerenciar um projeto seguindo o Agile. | A ferramenta suporta sistema de ranking por contribuição, Burndown, Velocity e dados periódicos sobre o desenvolvimento e sobre a gestão dos repositórios do projeto.
 
 ### 4.3 Suposições e Dependências
@@ -214,9 +214,9 @@ O DashOwl está sob a licença GNU General Public License v3.0 de softwares livr
 
 ### 5.1 Fornecer informações sobre o projeto, tais como:
 
-* Porcentagem de issues abertas e/ou fechadas num periodo
-* Periodo de issues abertas
-* Total de pull requests abertos e/ou fechados por periodo
+* Porcentagem de issues abertas e/ou fechadas num período
+* Período de issues abertas
+* Total de pull requests abertos e/ou fechados por período
 
 ### 5.2 Sistema de ranking:
 
@@ -225,23 +225,31 @@ O DashOwl está sob a licença GNU General Public License v3.0 de softwares livr
 * Pull requests
 * Linhas de código
 
+---
+
 ## 6 Restrições
 
 ### 6.1 Restrição de implementação
 
-O software deverá ser desenvolvido usando o framework django para a aplicação web e JavaScript para a extensão
+O software deverá ser desenvolvido usando o framework Django para a aplicação web e JavaScript para a extensão.
 
 ### 6.2 Restrição de design
 
-O sistema devera ter uma interface amigavel e de fácil usabilidade
+O sistema devera ter uma interface amigável e de fácil usabilidade.
 
 ### 6.3 Restrição de uso
 
-Para usar o DashOwl, o usuário deverá ter uma conexão com a internet e instalar a extensão no navegador google chrome
+Para usar o DashOwl, o usuário deverá ter uma conexão com a internet e instalar a extensão no navegador google chrome.
 
-### 7 Faixas de Qualidade
+---
+
+## 7 Faixas de Qualidade
+
 A extensão será disponibilizada na Chrome Web Store e funcionará com maior eficiência e estabilidade em dispositivos que utilizam o navegador Google Chrome como padrão, além de uma conexão estável com a internet.
  
-### 8 Prioridade e Precedência
+---
+
+## 8 Prioridade e Precedência
+
 A prioridade da aplicação é acompanhar em tempo real os repositórios do GitHub. Além disso, a aplicação indicará graficamente as atividades feitas individualmente e pelo time com a intenção de facilitar a sua visualização e o seu monitoramento.
 
