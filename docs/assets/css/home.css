@@ -1,5 +1,5 @@
 .text {
-    color: DarkGray;
+    color: DarkMagenta;
     font-size: 20px;
     padding: 32px 32px;
 
@@ -40,7 +40,7 @@ body h1{
 }
 
 .markdown-section tr:nth-child(2n) {
-    background-color: #696969;
+    background-color: #D8BFD8;
 }
 
 @-webkit-keyframes fadeIn {
