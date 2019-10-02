@@ -45,8 +45,7 @@ Data | Versão | Descrição | Autor
 	4.1 Perspectiva do produto<br />
 	4.2 Resumo das capacidades<br />
 	4.3 Suposições e dependências<br />
-	4.4 Custo e precificação<br />
-	4.5 Licenciamento e Instalação<br />
+	4.4 Licenciamento e Instalação<br />
 5. Recursos do produto<br />
 	5.1 Fornecer informações sobre o projeto<br/>
 	5.2 Sistema de Ranking<br/>
@@ -202,9 +201,7 @@ Facilidade em gerenciar um projeto seguindo o Agile. | A ferramenta suporta sist
 
 Incompatibilidade ou mal funcionamento em algum navegador ou sistema operacional específico, se necessário o documento será alterado para se encaixar com as especificações.
 
-### 4.4 Custo e Precificação 
-
-### 4.5 Licenciamento e Instalação
+### 4.4 Licenciamento e Instalação
 
 O DashOwl está sob a licença GNU General Public License v3.0 de softwares livres, que dá liberdade para todos que o adquirirem de modificar, distribuir, sublicenciar, vender, contribuir e concede um expressivo direito de patente para o software.
 
