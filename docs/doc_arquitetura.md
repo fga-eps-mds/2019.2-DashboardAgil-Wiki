@@ -10,6 +10,7 @@ Data | Versão | Descrição | Autor
 29/09/19 | 1.2 | Adição dos tópicos 3.2, 7 | Matheus Amaral
 29/09/19 | 1.3 | Adição dos tópicos 2 e 3.1 | João Victor
 30/09/19 | 1.4 | Adição do tópico 1.4 | Ailamar Alves
+07/10/19 | 1.5 | Adição do tópico 5.2 | João Victor
 
 ## Índice
 
@@ -139,7 +140,16 @@ Comunicação | A extensão deve se comunicar com clareza e simplicidade com o u
 
 ### 5.2 Pacotes de Design Significativos do Ponto de Vista da Arquitetura
 
-#### 5.2.1 Diagrama de pacotes
+![](./assets/imgs/Diagrama_pacotes.png)
+<br /> 
+**Imagem 02 -** Diagrama de pacotes
+
+No Back-End temos os pacotes de design significativos como sendo: models, views, templates e tests. Cada um com seu respectivo conteúdo:
+
+* models: Contém as models do Django, onde são definidos os modelos de dados. Representam a interface com o banco de dados.
+* tests: Contém os testes unitários feitos no sistema.
+* views: Contém a lógica que acessa o modelo e requisita a resposta.
+* templates: Contém a camada de apresentação..
 
 #### 5.2.2 Diagrama de classe
 
