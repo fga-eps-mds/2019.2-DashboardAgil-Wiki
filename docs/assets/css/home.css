@@ -1,0 +1,68 @@
+.text {
+    color: Black;
+    font-size: 20px;
+    padding: 32px 32px;
+
+    background-image: url("data:image/svg+xml;charset=utf8,%3Csvg id='squiggle-link' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' xmlns:ev='http://www.w3.org/2001/xml-events' viewBox='0 0 20 4'%3E%3Cstyle type='text/css'%3E.squiggle{animation:shift .3s linear infinite;}@keyframes shift {from {transform:translateX(0);}to {transform:translateX(-20px);}}%3C/style%3E%3Cpath fill='none' stroke='%232C3E50' stroke-width='2' class='squiggle' d='M0,3.5 c 5,0,5,-3,10,-3 s 5,3,10,3 c 5,0,5,-3,10,-3 s 5,3,10,3'/%3E%3C/svg%3E");
+    background-position: 0 75%;
+    background-size: auto 5px;
+    background-repeat: repeat-x;
+    text-decoration: none;
+  }
+
+  .title-home{
+    font-size: 7em !important;
+    font-family: 'Mansalva', sans-serif;
+    color: whitesmoke !important;
+  }
+
+  .sub-title{
+    font-size: 3em !important;
+    margin-bottom: 1em !important;
+  }
+
+  .sub-title2{
+    font-size: 3em !important;
+    margin-bottom: 2em !important;
+    margin-top: 2em !important; 
+  }
+
+  .has-mask{
+    background-attachment: fixed !important;
+    background-position: center !important;
+    background-repeat: no-repeat !important;
+    background-size: cover !important;
+  }
+
+
+body h1{
+  font-size: 2.5em !important;
+}
+
+.markdown-section tr:nth-child(2n) {
+    background-color: #696969;
+}
+
+@-webkit-keyframes fadeIn {
+  0% { opacity: 0; }
+  100% { opacity: 1; } 
+  }
+  @-moz-keyframes fadeIn {
+  0% { opacity: 0;}
+  100% { opacity: 1; }
+  }
+  @-o-keyframes fadeIn {
+  0% { opacity: 0; }
+  100% { opacity: 1; }
+  }
+  @keyframes fadeIn {
+  0% { opacity: 0; }
+  100% { opacity: 1; }
+  }
+
+  .fadeIn {
+-webkit-animation: fadeIn 3s ease-in-out;
+-moz-animation: fadeIn 3s ease-in-out;
+-o-animation: fadeIn 3s ease-in-out;
+animation: fadeIn 3s ease-in-out;
+}

@@ -1,26 +1,28 @@
-## Description
-    Descrição rápida e clara da feature 
+# Pull Request Template
 
-## Added 
-    Para novos recursos. 
+### Nome do Pull Request
 
-## Changed
-    Para alterações em recrusos existentes.
+O nome do pull request deve ser constituído por número da issue relacionada e seu nome.
 
-## Deprecated
-    Para recursos que serão removidos nas próximas versões. 
+```
+#X nome da issue
+```
 
-## Removed
-    Para recursos removidos nesta versão.
+### Conteúdo do Pull Request
 
-## Fixed
-    Para qualquer correção de bug.
+O conteúdo do pull request deve ser constituído de uma lista contendo as principais modificações feitas.
 
-## Security
-    Em caso de vulnerabilidade
+```
+Nesse pull request foi feito:
 
-## Cards
-    Links(trello ou algum que poderá ser útl na análise)
+História #25
+Issue #32
+Correção de bugs
+```
 
-## Status
-    - [ ] Review
+### Critério de aceitação
+
+Ex:
+- [x] Testes criados.
+- [x] testes passando.
+- [x] build passando.
