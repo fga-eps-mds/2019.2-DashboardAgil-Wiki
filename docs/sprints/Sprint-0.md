@@ -27,7 +27,7 @@ Definir qual linguagem será mais adequada  | Team | ok | 2
 
 O grupo conseguiu cumprir com o planejado entendendo a metodologia a ser usada e qual a proposta do projeto sendo assim escolhida as mehores linguagens possíveis para a produção do nosso produto.
 
-Fechada em 30/08/2019.
+Fechada em 05/09/2019.
 
 ---
 
