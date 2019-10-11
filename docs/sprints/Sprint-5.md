@@ -1,10 +1,12 @@
 ### Proposta
 
+Nessa sprint o time precisa suprir os débitos que restaram da sprint anterior e solucionar os problemas estruturais de alguns dos integrantes pois sem algumas ferramentas não é possível a conclusão do que foi proposto para essa semana.
+
 Criada em 10/10/2019. 
 
 -----
 
-### Atualização 
+### Planejamento
 
 **Issue** |**Responsável**| **Status** | **Valor** 
 ----------|:-------------:|:----------:|:---------:
@@ -15,16 +17,16 @@ Disponibilizar pontos dos colaboradores | Damarcones e Murilo | - | 5
 Disponibilizar issues abertas e fechadas por colaborador | Ailamar e Matheus | - | 3
 Criar template da homepage | Kalebe Lopes | - | 3
 
-
+**Pontuação total estimada:** 25
 
 **Nome** | **Papel na sprint** | **Pontos estimados**
 ---------|:-------------------:| :------------------:
-Damarcones dos Santos | DevOps | 13
-Ailamar Alves  | Product Owner | 11
-Matheus Amaral | Scrum Master | 11
-Kalebe Lopes  | DevOps | 11
-João Victor de Oliveira | DevOps | 11
-Murilo Schiler  | DevOps | 13
+Damarcones dos Santos | Dev | 13
+Ailamar Alves  | Scrum Master | 11
+Matheus Amaral | Dev | 11
+Kalebe Lopes  | Dev | 11
+João Victor de Oliveira | Product Owner | 11
+Murilo Schiler  | Dev | 13
 
 -----
 
