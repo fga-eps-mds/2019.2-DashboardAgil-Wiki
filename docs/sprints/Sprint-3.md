@@ -1,11 +1,12 @@
 ### Proposta
+
 O foco dessa sprint é revisar e finalizar documentos e arquivos que devem ser apresentados na Release 1.
 
 Criada em 24/09/2019. 
 
 -----
 
-### Atualização 
+### Planejamento
 
 **Issue** |**Responsável**| **Status** | **Valor** 
 ---------|:--------:|:-----------:|:---------:
@@ -19,6 +20,8 @@ Esboço da interface| Ailamar e Matheus | ok | 3
 Criar GitHub pages | João Victor e Ailamar | ok | 2 
 Criar logo | Damarcones | ok | 3
 
+**Pontuação total estimada:** 32
+
 **Nome** | **Papel na sprint** | **Pontos estimados** | **Pontos alcançados**
 ---------|:-------------------:| :------------------: | :-------------------: 
 Damarcones dos Santos | DevOps | 19 | 11
@@ -27,6 +30,8 @@ Matheus Amaral | Product Owner | 19 | 11
 Kalebe Lopes  | DevOps | 18 | 10
 João Victor de Oliveira | Scrum Master | 18 | 10
 Murilo Schiler  | DevOps | 16 | 8
+
+**Pontuação total alcançada:** 24
 
 -----
 
