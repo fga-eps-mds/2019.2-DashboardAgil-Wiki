@@ -39,8 +39,12 @@ body h1{
   font-size: 2.5em !important;
 }
 
+.markdown-section strong {
+    color: #DCDCDC;
+}
+
 .markdown-section tr:nth-child(2n) {
-    background-color: #F5F5F5;
+    background-color: #A9A9A9;
 }
 
 @-webkit-keyframes fadeIn {
