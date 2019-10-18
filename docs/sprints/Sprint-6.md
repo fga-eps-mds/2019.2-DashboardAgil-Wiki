@@ -15,7 +15,6 @@ Criada em 15/10/2019.
 Levantar o Product Backlog  | Team | - | 8
 Disponibilizar issues abertas e fechadas por colaborador | Ailamar e Kalebe | - | 3
 Configurar PostgreSQL | João Victor e Murilo | - | 5
-Salvar token de usuário no banco | Damarcones e Matheus | - | 3
 Requisição de pull request |  João Victor e Murilo | - | 3
 Requisição de pull request fechado |  João Victor e Murilo | - | 3
 Requisição de commits | Damarcones e Matheus | - | 3
@@ -24,14 +23,14 @@ Criar pagina de login | Ailamar e Kalebe | - | 2
 Configurar template de homepage no Django | Ailamar e Kalebe | - | 3
 
 
-**Pontuação total estimada:** 36
+**Pontuação total estimada:** 33
 
 
 **Nome** | **Papel na sprint** | **Pontos estimados**
 ---------|:-------------------:| :------------------:
-Damarcones dos Santos | Dev | 17 
+Damarcones dos Santos | Dev | 14 
 Ailamar Alves  | Dev | 16
-Matheus Amaral | Dev | 17
+Matheus Amaral | Dev | 14
 Kalebe Lopes  | Product Owner | 16
 João Victor de Oliveira | Dev | 19 
 Murilo Schiler  | Scrum Master | 19
