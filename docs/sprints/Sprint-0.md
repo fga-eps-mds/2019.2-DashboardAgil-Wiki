@@ -1,3 +1,7 @@
+## Sprint 0
+
+---
+
 ### Proposta
 
 Nessa primeira sprint, espera-se discutir o que foi proposto como tema, definir as ferramentas a serem utilizadas e qual linguagem de acordo com a finalidade do projeto e o conhecimento de cada integrante será mais adequada.

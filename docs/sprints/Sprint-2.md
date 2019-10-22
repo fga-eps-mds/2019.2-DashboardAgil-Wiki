@@ -1,3 +1,7 @@
+## Sprint 0
+
+---
+
 ### Proposta
 
 Nessa sprint espera-se adiantar grande parte de documentação e permissões para que nas sprints seguintes ja seja possível começar a parte de código. 

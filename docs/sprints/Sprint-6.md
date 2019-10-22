@@ -1,3 +1,7 @@
+## Sprint 0
+
+---
+
 ### Proposta
 
 Espera-se que nessa sprint grande parte das aquisições dos dados que nossa plataforma irá utilizar sejam requeridas e 

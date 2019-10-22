@@ -1,3 +1,7 @@
+## Sprint 0
+
+---
+
 ### Proposta
 
 Para essa sprint é esperado que os integrantes do grupo leiam a documentação do método escolhido para execução do projeto e definam um horário disponível em comum para passar o feedback do que foi feito no dia.

@@ -2,7 +2,11 @@
 
 * [Produto](/doc_visao)
     - [Documento de Visão](/doc_visao)
-    - [EAP](/)
+    - [Estrutura Analítica do Projeto](/)
+    - [Canvas](/)
+    - [Escopo](/)
+    - [Protótipo](/prototipo_alta_fidelidade)
+    - [Politicas](/)
 
 * [Projeto](/doc_arquitetura)
     - [Documento de Arquitetura](/doc_arquitetura)

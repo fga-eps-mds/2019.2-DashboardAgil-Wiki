@@ -1,3 +1,7 @@
+## Sprint 0
+
+---
+
 ### Proposta
 
 Nessa sprint o time precisa suprir os débitos que restaram da sprint anterior e solucionar os problemas estruturais de alguns dos integrantes pois sem algumas ferramentas não é possível a conclusão do que foi proposto para essa semana.

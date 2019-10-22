@@ -1,3 +1,7 @@
+## Sprint 0
+
+---
+
 ### Proposta
 
 O foco dessa sprint é revisar e finalizar documentos e arquivos que devem ser apresentados na Release 1.

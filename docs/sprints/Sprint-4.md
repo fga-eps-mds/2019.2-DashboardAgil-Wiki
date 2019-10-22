@@ -1,3 +1,7 @@
+## Sprint 0
+
+---
+
 ### Proposta
 
 Para essa sprint espera-se que após ler as documentações das linguagens que serão utilizadas seja iniciado oficialmete a parte de programação, dando começo ao front e backend do nosso projeto já que as funcionalidades e dados necessários ja foram definidos. 
