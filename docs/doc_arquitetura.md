@@ -76,7 +76,7 @@ Neste documento é apresentado um resumo com detalhes e esquemas do desenvolvime
 
 ### 2.1 Diagrama de Relações
 
-![](./assets/imgs/Diagrama_arquitetura.png)
+![](./assets/imgs/Diagrama_arquitetura_corrigido.jpg)
 <br /> **Imagem 01 -** Representação da arquitetura através de um diagrama de relações
 
 ### 2.2 Representação dos Microsserviços

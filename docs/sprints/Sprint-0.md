@@ -1,6 +1,5 @@
 ## Sprint 0
 
----
 
 ### Proposta
 
