@@ -47,6 +47,10 @@ body h1{
     background-color: #A9A9A9;
 }
 
+.markdown-section table {
+   color: #f8f9fa;
+}
+
 @-webkit-keyframes fadeIn {
   0% { opacity: 0; }
   100% { opacity: 1; } 
