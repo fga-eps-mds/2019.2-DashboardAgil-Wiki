@@ -11,7 +11,7 @@ Criada em 23/10/2019.
 **Issue** |**Responsável**| **Status** | **Valor** 
 ----------|:-------------:|:----------:|:---------:
 Atualizar GitHub pages | Damarcones e Matheus | - | 5 
-Configurar template para index da page | Ailamar e Kalebe | - | 3
+Configurar template para index da página | Ailamar e Kalebe | - | 3
 Criar página de login | Ailamar e Kalebe | - | 2
 Configurar direcionamentos da página |João Victor e Murilo | - | 5
 Requisição de pull request | João Victor e Murilo | - | 3
