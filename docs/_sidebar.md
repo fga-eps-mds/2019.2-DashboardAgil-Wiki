@@ -19,6 +19,6 @@
     - [Sprint 4](/sprints/Sprint-4)
     - [Sprint 5](/sprints/Sprint-5)
     - [Sprint 6](/sprints/Sprint-6)
-    - [Sprint 7](/)
+    - [Sprint 7](/sprints/Sprint-7)
     - [Sprint 8](/)
     - [Sprint 9](/)
