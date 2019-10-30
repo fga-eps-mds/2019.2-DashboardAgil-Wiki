@@ -10,6 +10,7 @@
 
 * [Projeto](/doc_arquitetura)
     - [Documento de Arquitetura](/doc_arquitetura)
+    - [Plano de Comunicação](/plano_de_comunicação)
 
 * [Sprints](/sprints/Sprint-0)
     - [Sprint 0](/sprints/Sprint-0)
