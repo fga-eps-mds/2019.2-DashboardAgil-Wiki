@@ -1,4 +1,4 @@
-## Políticas
+## Políticas de contribuição
 
 Contribua conosco! Basta clonar o repositório e seguir as seguintes políticas de contribuição do repositório:
 
@@ -7,7 +7,9 @@ Contribua conosco! Basta clonar o repositório e seguir as seguintes políticas 
 - Issue
 - Branch
 
-### 1. Commit
+---
+
+## 1. Commit
 
 Devem ser escritos em inglês na forma infinitiva contendo uma breve decrição do que foi modificado.
 
@@ -24,12 +26,13 @@ $ git commit -m "this is an example
 Co-authored-by: name <name@example.com>
 Co-authored-by: another-name <another-name@example.com>"
 ```
-
-### 2. Pull request
-
-Devem obedecer o template de pull request:
-
 ---
+
+## 2. Pull request
+
+Devem obedecer o template de pull request.
+
+**Pull request template:**
 
 #### Nome do Pull Request
 
@@ -60,13 +63,11 @@ Ex:
 
 ---
 
-### 3. Issue
+## 3. Issue
 
 Deve obedecer o template feature request para uma nova funcionalidade, ou bug report caso ocorra um bug e deve ter o máximo de indicadores do que se trata.
 
-Feature request:
-
----
+**Feature request:**
 
 #### Nome da *issue*
 
@@ -82,11 +83,7 @@ Critérios de aceitação:
 - [ ] critério 2
 - [ ] critério 3
 
----
-
-Bug report:
-
----
+**Bug report:**
 
 #### Nome da *issue*
 
@@ -104,7 +101,7 @@ Critérios de aceitação:
 
 ---
 
-### 4. Branch
+## 4. Branch
 
 - Deve começar com o numero da issue que ela procura solucionar;
 
