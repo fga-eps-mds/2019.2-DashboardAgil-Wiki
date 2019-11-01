@@ -6,7 +6,7 @@
     - [Canvas](/)
     - [Escopo](/)
     - [Protótipo](/prototipo_alta_fidelidade)
-    - [Políticas_de_contribuição](/politicas_de_contribuicao)
+    - [Políticas de contribuição](/politicas_de_contribuicao)
 
 * [Projeto](/doc_arquitetura)
     - [Documento de Arquitetura](/doc_arquitetura)
