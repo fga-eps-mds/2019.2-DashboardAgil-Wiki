@@ -29,7 +29,7 @@ de cada membro.
 ![drive](../assets/imgs/comunication/drive.png)
         <h3>Telegram</h3>
 
-![telegram](../assets/imgs/logo_telegram.jpg =100x60)
+<img src="logo_telegram.jpg" alt="drawing" width="100"/>
 
 </div>
 <div class="images-info">
