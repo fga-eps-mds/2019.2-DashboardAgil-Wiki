@@ -39,7 +39,7 @@ Murilo Schiler  | Dev | 6
 
 ### Retrospectiva
 
-Nessa semana foram concluídas grande parte das issues mas ainda assim ouveram atrasos. Os imprevistos ocorreram devido a problemas com as máquinas e conflitos no código de template do index.
+Nessa semana foram concluídas grande parte das issues mas ainda assim houveram atrasos. Os imprevistos ocorreram devido a problemas com as máquinas e conflitos no código de template do index.
 
 Finalizada em 29/10/2019. 
 
