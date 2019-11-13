@@ -54,4 +54,4 @@ Fechada em 05/10/2019.
 * Não conclusão dos direcionamentos da página
 
 #### A melhorar
-* Não mudar decisões que estavam planejadas de última hora
+* Manter as decisões planejadas, sem mudar de última hora
