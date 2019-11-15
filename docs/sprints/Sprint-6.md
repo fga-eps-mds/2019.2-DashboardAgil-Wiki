@@ -28,14 +28,14 @@ Configurar template de homepage no Django | Ailamar e Kalebe | ok | 3
 **Pontuação total estimada:** 33
 
 
-**Nome** | **Papel na sprint** | **Pontos estimados**
----------|:-------------------:| :------------------:
-Damarcones dos Santos | Dev | 14 
-Ailamar Alves  | Dev | 16
-Matheus Amaral | Dev | 14
-Kalebe Lopes  | Product Owner | 16
-João Victor de Oliveira | Dev | 19 
-Murilo Schiler  | Scrum Master | 19
+**Nome** | **Papel na sprint** | **Pontos estimados** | **Pontos alcançados**
+---------|:-------------------:| :------------------: | :-------------------:
+Damarcones dos Santos | Dev | 14 | 8
+Ailamar Alves  | Dev | 16 | 14
+Matheus Amaral | Dev | 14 | 8
+Kalebe Lopes  | Product Owner | 16 | 14
+João Victor de Oliveira | Dev | 19 | 13
+Murilo Schiler  | Scrum Master | 19 | 13
 
 
 **Pontuação total alcançada:** 20
