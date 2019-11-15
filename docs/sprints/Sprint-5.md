@@ -13,7 +13,7 @@ Criada em 10/10/2019.
 
 **Issue** |**Responsável**| **Status** | **Valor** 
 ----------|:-------------:|:----------:|:---------:
-Levantar o Product Backlog  | Team | - | 8
+Levantar o Product Backlog  | Team | ok | 8
 Configurar Travis | João Victor | ok | 3 
 Criar extensão com o Google Chrome | João Victor e Kalebe Lopes | ok | 3
 Disponibilizar pontos dos colaboradores | Damarcones e Murilo | ok | 5
@@ -22,14 +22,14 @@ Criar template da homepage | Kalebe Lopes | ok | 3
 
 **Pontuação total estimada:** 25
 
-**Nome** | **Papel na sprint** | **Pontos estimados**
----------|:-------------------:| :------------------:
-Damarcones dos Santos | Dev | 13
-Ailamar Alves  | Scrum Master | 11
-Matheus Amaral | Dev | 11
-Kalebe Lopes  | Dev | 11
-João Victor de Oliveira | Product Owner | 11
-Murilo Schiler  | Dev | 13
+**Nome** | **Papel na sprint** | **Pontos estimados** | **Pontos alcançados**
+---------|:-------------------:| :------------------: | :-------------------:
+Damarcones dos Santos | Dev | 13 | 13
+Ailamar Alves  | Scrum Master | 11 | 8
+Matheus Amaral | Dev | 11 | 8
+Kalebe Lopes  | Dev | 11 | 11
+João Victor de Oliveira | Product Owner | 11 | 11
+Murilo Schiler  | Dev | 13 | 13
 
 
 **Pontuação total alcançada:** 14
@@ -38,7 +38,7 @@ Murilo Schiler  | Dev | 13
 
 ### Retrospectiva
 
-Nessa sprint a maioria das duplas completaram suas issues, entretanto uma das duplas tiveram problemas com suas máquina gerando imprevistos mas que ja foram resolvidos. Apesar de ter a maior parte das issues completas a pontuação ficou baixa devido ao Product Backlog que possui um valor alto, essa issue não foi fechada pois ainda requer itens e revisão.
+Nessa sprint a maioria das duplas completaram suas issues, entretanto uma das duplas tiveram problemas com suas máquina gerando imprevistos mas que ja foram resolvidos. 
 
 Fechada em 15/10/2019. 
 
