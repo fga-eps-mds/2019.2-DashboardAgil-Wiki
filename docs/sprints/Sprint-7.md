@@ -23,14 +23,14 @@ Requisição de milestones | Damarcones e Matheus | ok | 3
 **Pontuação total estimada:** 22
 
 
-**Nome** | **Papel na sprint** | **Pontos estimados**
----------|:-------------------:| :------------------:
-Damarcones dos Santos | Product Owner | 6
-Ailamar Alves  | Dev | 10
-Matheus Amaral | Scrum Master | 11
-Kalebe Lopes  | Dev | 5
-João Victor de Oliveira | Dev | 6 
-Murilo Schiler  | Dev | 6
+**Nome** | **Papel na sprint** | **Pontos estimados** | **Pontos alcançados** 
+---------|:-------------------:| :------------------: | :-------------------:
+Damarcones dos Santos | Product Owner | 6 | 6
+Ailamar Alves  | Dev | 10 | 5
+Matheus Amaral | Scrum Master | 11 | 8
+Kalebe Lopes  | Dev | 5 | - 
+João Victor de Oliveira | Dev | 6 | 6
+Murilo Schiler  | Dev | 6 | 6
 
 
 **Pontuação total alcançada:** 14
