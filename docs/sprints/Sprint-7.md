@@ -13,7 +13,7 @@ Criada em 22/10/2019.
 **Issue** |**Responsável**| **Status** | **Valor** 
 ----------|:-------------:|:----------:|:---------:
 Atualizar GitHub pages | Ailamar e Matheus | ok | 5 
-Configurar template para index da página | Ailamar e Kalebe | - | 5
+Configurar template para index da página | Ailamar e Kalebe | ok | 5
 Requisição de pull request | João Victor e Murilo | ok | 3
 Requisição de pull request fechado | João Victor e Murilo | ok | 3
 Requisição de commits | Damarcones e Matheus | - | 3
@@ -26,20 +26,20 @@ Requisição de milestones | Damarcones e Matheus | ok | 3
 **Nome** | **Papel na sprint** | **Pontos estimados** | **Pontos alcançados** 
 ---------|:-------------------:| :------------------: | :-------------------:
 Damarcones dos Santos | Product Owner | 6 | 6
-Ailamar Alves  | Dev | 10 | 5
+Ailamar Alves  | Dev | 10 | 10
 Matheus Amaral | Scrum Master | 11 | 8
-Kalebe Lopes  | Dev | 5 | - 
+Kalebe Lopes  | Dev | 5 | 5 
 João Victor de Oliveira | Dev | 6 | 6
 Murilo Schiler  | Dev | 6 | 6
 
 
-**Pontuação total alcançada:** 14
+**Pontuação total alcançada:** 19
 
 ---
 
 ### Retrospectiva
 
-Nessa semana foram concluídas grande parte das issues mas ainda assim houveram atrasos. Os imprevistos ocorreram devido a problemas com as máquinas e conflitos no código de template do index.
+Nessa semana foram concluídas grande parte das issues mas ainda assim houveram atrasos. Os imprevistos ocorreram devido a problemas com as máquinas e conflitos na hora de dar merge nos códigos.
 
 Finalizada em 29/10/2019. 
 
