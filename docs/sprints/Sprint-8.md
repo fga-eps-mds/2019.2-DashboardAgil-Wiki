@@ -13,13 +13,12 @@ Criada em 12/10/2019.
 **Issue** |**Responsável**| **Status** | **Valor** 
 ----------|:-------------:|:----------:|:---------:
 Revisar GitHub pages | Ailamar, Damarcones e Matheus | ok | 5 
-Configurar template para index da página | Kalebe, Murilo e João | ok | 5
 Configurar direcionamentos da página | Kalebe, Murilo e João | - | 5
 Requisição de commits | Damarcones e Matheus | ok | 3
 Finalizar protótipo de direcionamentos da página | Ailamar e Matheus | ok | 3
 
 
-**Pontuação total estimada:** 21
+**Pontuação total estimada:** 16
 
 
 **Nome** | **Papel na sprint** | **Pontos estimados** | **Pontos Alcançados**
@@ -27,11 +26,11 @@ Finalizar protótipo de direcionamentos da página | Ailamar e Matheus | ok | 3
 Damarcones dos Santos | Dev | 8 | 8
 Ailamar Alves  | Dev | 8 | 8
 Matheus Amaral | Dev | 11 | 11
-Kalebe Lopes  | Dev | 10 | 5
-João Victor de Oliveira | Scrum Master | 10 | 5
-Murilo Schiler  | Product Owner | 10 | 5
+Kalebe Lopes  | Dev | 5 | 5
+João Victor de Oliveira | Scrum Master | 5 | 5
+Murilo Schiler  | Product Owner | 5 | 5
 
-**Pontuação total alcançada:** 16
+**Pontuação total alcançada:** 11
 
 ---
 
