@@ -38,7 +38,7 @@ Murilo Schiler  | Product Owner | 5 | 5
 
 Ao finalizar essa sprint os direcionamentos dos tópicos das páginas foram entregues mas apareceram mudanças nos planos em relação ao jeito que iam ser guardados os dados no banco. Acreditamos que essa alterações não influenciarão no andamento do projeto.
 
-Fechada em 05/11/2019. 
+Fechada em 12/11/2019. 
 
 ---
 
