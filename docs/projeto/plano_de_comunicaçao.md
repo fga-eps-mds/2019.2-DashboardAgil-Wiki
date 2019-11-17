@@ -13,20 +13,20 @@ de cada membro.
 <div class="images-info">
         <h3>Github</h3>
 
-![github](../assets/imgs/comunication/github.png)
+![github](../assets/imgs/github_logo.png)
 
 </div>
 <div class="images-info">
     <h3>Zengub</h3>
 
-![zenhub](../assets/imgs/comunication/zenhub.png)
+![zenhub](../assets/imgs/zenhub_logo.png)
 
 </div>
 
 <div class="images-info">
     <h3>Google Drive</h3>
 
-![drive](../assets/imgs/comunication/drive.png)
+![drive](../assets/imgs/drive_logo.png)
         <h3>Telegram</h3>
 
 <img src="logo_telegram.jpg" alt="drawing" width="100"/>
