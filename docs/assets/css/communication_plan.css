@@ -1,0 +1,16 @@
+.communications-imgs {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+.images-info {
+    position: relative;
+    margin: 1em;
+    text-align: center;
+}
+
+.images-info img{
+    display: flex;    
+}
