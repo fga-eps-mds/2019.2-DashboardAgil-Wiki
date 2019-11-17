@@ -1,4 +1,4 @@
-## Plano de comunicação
+# Plano de comunicação
 
 Este documento possui a descrição de como e por onde ocorrerá a comunicação dos integrantes do grupo durante a produção 
 do trabalho. Para acompanhar a produtividade, ter uma boa integração do time e uma troca de informações eficaz é importante
@@ -9,15 +9,15 @@ de cada membro.
 
 ## Ferramentas utilizadas
 
-<div class="comunications-imgs">
+<div class="communications-imgs">
 <div class="images-info">
-        <h3>Github</h3>
+        <h3>GitHub</h3>
 
-![github](../assets/imgs/github_logo.png)
+![github](../assets/imgs/git_logo.png)
 
 </div>
 <div class="images-info">
-    <h3>Zengub</h3>
+    <h3>ZenHub</h3>
 
 ![zenhub](../assets/imgs/zenhub_logo.png)
 
@@ -27,12 +27,13 @@ de cada membro.
     <h3>Google Drive</h3>
 
 ![drive](../assets/imgs/drive_logo.png)
-        <h3>Telegram</h3>
-
-<img src="logo_telegram.jpg" alt="drawing" width="100"/>
 
 </div>
+
 <div class="images-info">
+        <h3>Telegram</h3>
+
+![telegram](../assets/imgs/telegram_logo.png)
 
 </div>
 </div>
