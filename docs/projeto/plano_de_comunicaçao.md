@@ -9,54 +9,12 @@ de cada membro.
 
 ## Ferramentas utilizadas
 
-<div class="communications-imgs">
-<div class="images-info">
-        <h3>GitHub</h3>
-
-![github](../assets/imgs/git_logo.png)
-
-</div>
-<div class="images-info">
-    <h3>ZenHub</h3>
-
-![zenhub](../assets/imgs/zenhub_logo.png)
-
-</div>
-
-<div class="images-info">
-    <h3>Google Drive</h3>
-
-![drive](../assets/imgs/drive_logo.png)
-
-</div>
-
-<div class="images-info">
-        <h3>Telegram</h3>
-
-![telegram](../assets/imgs/telegram_logo.png)
-
-</div>
-</div>
-
-### GitHub:
-
-<p> No GitHub é onde armazenamos e fazemos a integração de todo projeto, desde a parte da documentação até o código do 
-produto final a ser entregue. </p>
-
-### ZenHub:
-
-<p> O ZenHub é onde organiza-se o planejamento das atividades semanais e também possui product backlog. Nessa plataforma são
-gerados gráficos e métricas da produtividade ajudando no monitoramento das issues.</p>
-
-### Google Drive:
-
-<p> Devido a facilidade em compartilhar arquivos online para que o time possa trabalhar na produção dos documentos ao mesmo 
-tempo foi escolhido o Google Drive. Ao final é feito a revisão e o documento é adicionado a Git page do projeto. </p>
-
-### Telegram: 
-
-<p> É a ferramenta mais utilizadas pelo grupo. É prática para tirar dúvidas, passar avisos, enviar arquivos, informar algum 
-imprevisto e fazer as reuniões técnicas diárias.</p>
+| | |
+---- | :------ 
+![github](../assets/imgs/logo_git.png) | **GitHub:** O GitHub é onde armazenamos e fazemos a integração de todo projeto, desde a parte da documentação até o código do produto final a ser entregue.
+![zenhub](../assets/imgs/zenhub_logo.png) | **ZenHub:** O ZenHub é onde organiza-se o planejamento das atividades semanais e também possui product backlog. Nessa plataforma são gerados gráficos e métricas da produtividade ajudando no monitoramento das issues e das sprints.
+![drive](../assets/imgs/logo_drive.png)  | **Google Drive:** Devido a facilidade em compartilhar arquivos online para que o time possa trabalhar na produção dos documentos ao mesmo tempo foi escolhido o Google Drive. Ao final é feito a revisão e o documento é adicionado a Wiki do projeto.
+![telegram](../assets/imgs/logo_telegram.png) | **Telegram:** Esta é a ferramenta mais utilizadas pelo grupo. É prática para tirar dúvidas, passar avisos, enviar arquivos, informar algum imprevisto e fazer as reuniões técnicas diárias.
 
 ---
 
