@@ -2,10 +2,10 @@
 
 ### Home page
 
-![](./assets/imgs/prototipo_homepage.PNG)
+![](../assets/imgs/prototipo_homepage.PNG)
 
 ---
 
 ### Ranking page
 
-![](./assets/imgs/prototipo_ranking.PNG)
+![](../assets/imgs/prototipo_ranking.PNG)

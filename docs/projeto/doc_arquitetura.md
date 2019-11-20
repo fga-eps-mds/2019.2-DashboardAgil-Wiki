@@ -76,7 +76,7 @@ Neste documento é apresentado um resumo com detalhes e esquemas do desenvolvime
 
 ### 2.1 Diagrama de Relações
 
-![](./assets/imgs/Diagrama_arquitetura_corrigido.png)
+![](../assets/imgs/Diagrama_arquitetura.png)
 <br /> **Imagem 01 -** Representação da arquitetura através de um diagrama de relações
 
 ### 2.2 Representação dos Microsserviços
@@ -140,7 +140,7 @@ Comunicação | A extensão deve se comunicar com clareza e simplicidade com o u
 
 ### 5.2 Pacotes de Design Significativos do Ponto de Vista da Arquitetura
 
-![](./assets/imgs/Diagrama_pacotes.png)
+![](../assets/imgs/Diagrama_pacotes.png)
 <br /> 
 **Imagem 02 -** Diagrama de pacotes
 

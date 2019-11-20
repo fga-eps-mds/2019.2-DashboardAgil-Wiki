@@ -10,7 +10,8 @@
 
 * [Projeto](/projeto/doc_arquitetura)
     - [Documento de Arquitetura](/projeto/doc_arquitetura)
-    - [Plano de Comunicação](/projeto/plano_de_comunicaçao)
+    - [Plano de Comunicação](/projeto/plano_de_comunicacao)
+    - [Post Mortem](/projeto/post_mortem)
 
 * [Sprints](/sprints/Sprint-0)
     - [Sprint 0](/sprints/Sprint-0)
