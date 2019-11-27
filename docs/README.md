@@ -4,7 +4,32 @@ DashOwl é um dashboard ágil criado com o intuito de acompanhar em tempo real o
 
 ---
 
+## Funcionalidades
+
+-  Filtragem de dados do GitHub
+-  Análise métrica das atividades do grupo
+-  Visualização gráfica dos principais features do GitHub
+
+
+---
+
 ## Como posso usar o produto?
+
+
+### Clonando repositório
+
+```
+git clone https://github.com/fga-eps-mds/2019.2-DashboardAgil
+```
+
+### Rodando o ambiente 
+
+```
+sudo docker-compose up --build
+``` 
+
+### Instalando a extensão
+
 
 
 ---
@@ -21,6 +46,12 @@ João Victor de Oliveira| joao15victor08@gmail.com | joao15victor08
 Kalebe Lopes    | calbkalebe@gmail.com | KalebeLopes
 Matheus Amaral  | mam.macacod@gmail.com | Matheus-AM
 Murilo Schiler  | muriloschiler.ls@gmail.com | muriloschiler
+
+---
+
+## Licença
+
+DashOwl está sob a lincença GNU General Public License. Para mais informações acesse [LICENSE](https://github.com/fga-eps-mds/2019.2-DashboardAgil-Wiki/blob/master/LICENSE).
 
 
 
