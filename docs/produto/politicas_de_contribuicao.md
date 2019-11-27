@@ -1,11 +1,6 @@
 ## Políticas de contribuição
 
-Contribua conosco! Basta clonar o repositório e seguir as seguintes políticas de contribuição do repositório:
-
-- Commit
-- Pull request
-- Issue
-- Branch
+Contribua conosco! Basta clonar o repositório e seguir as políticas de contribuição do repositório listadas abaixo.
 
 ---
 

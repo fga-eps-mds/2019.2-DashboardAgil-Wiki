@@ -2,11 +2,9 @@
 
 * [Produto](/produto/doc_visao)
     - [Documento de Visão](/produto/doc_visao)
-    - [Estrutura Analítica do Projeto](/)
-    - [Canvas](/)
-    - [Escopo](/)
+    - [Manual de Identidade Visual](/produto/identidade_visual)
     - [Protótipo](/produto/prototipo_alta_fidelidade)
-    - [Políticas de contribuição](/produto/politicas_de_contribuicao)
+    - [Políticas de Contribuição](/produto/politicas_de_contribuicao)
 
 * [Projeto](/projeto/doc_arquitetura)
     - [Documento de Arquitetura](/projeto/doc_arquitetura)
