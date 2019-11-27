@@ -2,10 +2,16 @@
 
 ### Home page
 
-![](../assets/imgs/prototipo_homepage.PNG)
+![](../assets/imgs/prototipo_index.png)
 
 ---
 
-### Ranking page
+### Lista de repositórios
 
-![](../assets/imgs/prototipo_ranking.PNG)
+![](../assets/imgs/prototipo_repositorios.png)
+
+---
+
+### Página de gráficos
+
+![](../assets/imgs/prototipo_graficos.png)
