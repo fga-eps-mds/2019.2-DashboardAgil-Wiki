@@ -1,6 +1,6 @@
 ## Sobre o projeto
 
-DashOwl é um dashboard ágil criado com o intuito de acompanhar em tempo real os repositórios do GitHub tirando métricas e indicadores das atividades feitas individualmente e pelo time. O projeto é uma extensão do GitHub para o navegador Google Chrome e permite aos usuários que utilizam a plataforma ao entrar em certo repositório tenham a opção de ver graficamente de acordo com a metodologia ágil um breve histórico das atividades feitas e/ou em andamento no projeto.
+DashOwl é um dashboard ágil criado com o intuito de acompanhar em tempo real os repositórios do GitHub tirando métricas e indicadores das atividades feitas individualmente e pelo time. O projeto é uma extensão do GitHub para o navegador Google Chrome e permite aos usuários que utilizam a plataforma ao entrar em um de seus repositórios tenham a opção de ver graficamente de acordo com a metodologia ágil o andamento do projeto.
 
 ---
 
@@ -13,7 +13,7 @@ DashOwl é um dashboard ágil criado com o intuito de acompanhar em tempo real o
 
 ---
 
-## Como posso usar o produto?
+## Como usar o produto
 
 
 ### Clonando repositório
@@ -30,7 +30,11 @@ sudo docker-compose up --build
 
 ### Instalando a extensão
 
+* No navegador, entre em configurações > extensões;
+* Ative o 'modo do desenvolvedor' e em seguida clique em 'carregar sem compactação'; 
+* Selecione a pasta 'extension' dentro do repositório. 
 
+Agora é só clicar no ícone e entrar com seu login do GitHub.
 
 ---
 
