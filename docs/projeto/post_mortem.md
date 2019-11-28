@@ -25,7 +25,7 @@ Esse documento descreve uma breve visão sobre a experiência e aprendizado do g
 **Ailamar**
 
 **Damarcones**
-
+Se possuissse mais experiência e sabedoria, teria aproveitado mais o desenvolvimento desse projeto, com muito mais auxilios aos meus companheiros de equipe.
 **Kalebe**
 
 **Matheus**
