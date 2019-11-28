@@ -7,31 +7,38 @@ Esse documento descreve uma breve visão sobre a experiência e aprendizado do g
 ---
 
 ## Pontos Positivos
-* 
-*
-*
-*
+
+* Engajamento do grupo;
+* Aplicação da metodologia ágil;
+* Experiência e aprendizado do time;
+* Desenvolvimento técnico;
+* Boa comunicação.
+
 
 ## Pontos Negativos
-*
-*
-*
-*
+
+* Falta de uma equipe de EPS;
+* Pouca oportunidade de treinamento;
+* Problemas com as máquinas;
+* Dificuldade na administração do tempo;
+* Funcionalidades pendentes.
 
 ---
 
 ## Experiencia do grupo
 
-**Ailamar**
+**Ailamar:**
 
-**Damarcones**
+Sempre ouvi feedbacks sobre o quanto essa matéria exigia tempo e dedicação e não foi nada diferente disso. Apesar das dificuldades iniciais tendo que buscar ajuda de pessoas para nos guiar e ajudar a descobrir por onde começar devido a falta de um grupo de EPS, o fato de termos dado nosso jeito pra tentar fazer dar certo, mesmo sem muita experiência, acredito que fez com que adiquirissemos bastante conhecimento.
+
+**Damarcones:**
 
 Se possuissse mais experiência e sabedoria, teria aproveitado mais o desenvolvimento desse projeto, com muito mais auxilios aos meus companheiros de equipe. Aprendi como é bom ter companheiros que dividem suas preocupações com a disiciplina com você, trás uma calma em saber que não estamos sozinhos nesse desafio.
 
-**Kalebe**
+**Kalebe:**
 
-**Matheus**
+**Matheus:**
 
-**Murilo**
+**Murilo:**
 
 
