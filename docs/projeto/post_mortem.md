@@ -37,9 +37,10 @@ Se possuissse mais experiência e sabedoria, teria aproveitado mais o desenvolvi
 
 **Kalebe:**
 
+Um grande desafio que juntos conseguimos vencer! Apesar das dificuldades que enfrentamos por não ter muito conhecimento sobre projetos e também pela falta de um grupo experiente para nos auxiliar, conseguimos entender o objetivo da matéria MDS, aprender com os nossos erros e entregar o projeto final. 
+
 **Matheus:**
 
 **Murilo:**
 
-Sempre tive curiosidade de me envolver em um grupo de desenvolvimento de software e saber suas dinâmicas e dificuldades. Com MDS supri essa curiosidade. Mesmo sem EPS , o grupo se mostrou bastante ativo e interessado , sempre buscando novas tecnologias e estratégias para desenvolver o projeto . Vou levar desse semestre bastante expêriencia e conhecimento , de software e social , para minha carreira acadêmica.   
 
