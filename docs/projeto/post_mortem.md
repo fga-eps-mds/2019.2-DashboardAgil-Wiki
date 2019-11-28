@@ -45,6 +45,8 @@ Um grande desafio que juntos conseguimos vencer! Apesar das dificuldades que enf
 
 **Matheus:**
 
+Foi um bom desafio. Começamos o semestre com a maioria do grupo sem o conhecimento de python, Django, metodologia ágil, produto de software, linux, docker e desenvolvimento contínuo, porém cada um desses pontos foram abordadados. A matéria preparou bem todos para um projeto mais robusto e organizado. 
+
 **Murilo:**
 
 Sempre tive curiosidade de me envolver em um grupo de desenvolvimento de software e saber suas dinâmicas e dificuldades. Com MDS supri essa curiosidade. Mesmo sem EPS, o grupo se mostrou bastante ativo e interessado, sempre buscando novas tecnologias e estratégias para desenvolver o projeto. Vou levar desse semestre bastante expêriencia e conhecimento, de software e social, para minha carreira acadêmica.
